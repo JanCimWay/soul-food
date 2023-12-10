@@ -18,6 +18,11 @@ body {
     font-family: 'Prompt', sans-serif;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
 /* Header */
 
 header {
@@ -43,7 +48,30 @@ nav {
 }
 
 header a {
-    text-decoration: none;
     text-transform: uppercase;
-    color: inherit;
 }
+
+ /* Main content formating */
+
+ /* Main content */
+ main {
+    flex: 1 0 auto;
+    padding-top: 102px;
+    display: flex;
+    direction: column;
+ }
+
+ /* Footer formating */
+ #soc-netw {
+    background-color: #c3ba7a;
+    padding: 2px 5px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 150%;
+ }
+
+ #copyright {
+    text-align: center;
+    color: #c3ba7a;
+    font-size: 75%;
+ }
