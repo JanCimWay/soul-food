@@ -177,6 +177,12 @@ main {
     margin-top: 10px;
 }
 
+/* Thank You page */
+
+#thanks {
+    background: url(../images/thank-you-bg/thanks.webp) no-repeat 45% center/cover;
+}
+
 /* Footer formating */
 #soc-netw {
     background-color: #c3ba7a;
