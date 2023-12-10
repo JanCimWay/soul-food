@@ -40,6 +40,11 @@ h1 {
     font-family: 'Montserrat', sans-serif;
 }
 
+h2, h3 {
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
 nav {
     background-color: #c3ba7a;
     display: flex;
@@ -59,6 +64,26 @@ header a {
     padding-top: 102px;
     display: flex;
     direction: column;
+ }
+
+/* Hero */
+
+ #hero {
+    height: 500px;
+    width: 100%;
+    background: url("../images/hero/hero-image.webp") no-repeat 70% center/cover;
+    position: relative;
+ }
+
+ #hero-text {
+    position: absolute;
+    background-color: #c3ba7abf;
+    bottom: 50px;
+    right: 20px;
+    max-width: 80vw;
+    color: 423f03;
+    padding: 20px 10px;
+    text-align: right;
  }
 
  /* Footer formating */
