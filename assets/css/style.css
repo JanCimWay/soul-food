@@ -86,6 +86,10 @@ header a {
     text-align: right;
  }
 
+ #hero-text > h2 {
+    margin-bottom: 5px;
+ }
+
  /* Footer formating */
  #soc-netw {
     background-color: #c3ba7a;
