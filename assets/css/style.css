@@ -44,16 +44,18 @@ header {
 }
 
 h1 {
-    text-align: center;
-    /* Top padding bigger because of Iphone notches */
     padding: 20px 10px 5px 10px;
     font-size: 220%;
-    font-family: 'Montserrat', sans-serif;
 }
 
 h2, h3 {
     text-transform: uppercase;
+    padding: 5px 0;
+}
+
+h1, h2, h3 {
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
 }
 
 nav {
@@ -98,11 +100,10 @@ header a {
     max-width: 80vw;
     color: 423f03;
     padding: 20px 10px;
-    text-align: right;
  }
 
- #hero-text > h2 {
-    margin-bottom: 5px;
+ #hero-text > h2, #hero-text > p {
+    text-align: right;
  }
 
  #timetable {
