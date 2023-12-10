@@ -25,13 +25,20 @@ a {
 
 table {
     width: 80vw;
-    box-align: center; /* Should check do I need this*/
+    box-align: center;
+    /* Should check do I need this*/
     max-width: 500px;
 }
 
-th, td {
+th,
+td {
     padding: 3px;
     text-align: center;
+}
+
+img {
+    box-shadow: 0 0 10px #423f03;
+    border-radius: 20px;
 }
 
 /* Header */
@@ -48,12 +55,15 @@ h1 {
     font-size: 220%;
 }
 
-h2, h3 {
+h2,
+h3 {
     text-transform: uppercase;
     padding: 5px 0;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
 }
@@ -73,26 +83,26 @@ header a {
     border-bottom: 2px solid #423f03;
 }
 
- /* Main content formating */
+/* Main content formating */
 
- /* Main content */
- main {
+/* Main content */
+main {
     flex: 1 0 auto;
     padding-top: 102px;
     display: flex;
     flex-direction: column;
- }
+}
 
 /* Hero */
 
- #hero {
+#hero {
     height: 500px;
     width: 100%;
     background: url("../images/hero/hero-image.webp") no-repeat 70% center/cover;
     position: relative;
- }
+}
 
- #hero-text {
+#hero-text {
     position: absolute;
     background-color: #c3ba7abf;
     bottom: 50px;
@@ -100,29 +110,50 @@ header a {
     max-width: 80vw;
     color: 423f03;
     padding: 20px 10px;
- }
+}
 
- #hero-text > h2, #hero-text > p {
+#hero-text>h2,
+#hero-text>p {
     text-align: right;
- }
+}
 
- #timetable {
+#timetable {
     display: flex;
     flex-direction: column;
     align-items: center;
- }
+}
 
- /* Footer formating */
- #soc-netw {
+/* About */
+
+.about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#about img {
+    width: 80vw;
+    height: 80vw;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#about p {
+    text-align: justify;
+    margin: 0 10% 20px 10%;
+}
+
+/* Footer formating */
+#soc-netw {
     background-color: #c3ba7a;
     padding: 2px 5px;
     display: flex;
     justify-content: space-around;
     font-size: 150%;
- }
+}
 
- #copyright {
+#copyright {
     text-align: center;
     color: #c3ba7a;
     font-size: 75%;
- }
+}
