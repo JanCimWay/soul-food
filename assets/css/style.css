@@ -32,6 +32,7 @@ h1 {
     /* Top padding bigger because of Iphone notches */
     padding: 20px 10px 5px 10px;
     font-size: 220%;
+    font-family: 'Montserrat', sans-serif;
 }
 
 nav {
