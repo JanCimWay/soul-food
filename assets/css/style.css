@@ -6,3 +6,43 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* General styles */
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #eee4a2;
+    color: #423f03;
+    font-family: 'Prompt', sans-serif;
+}
+
+/* Header */
+
+header {
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    background-color: inherit;
+}
+
+h1 {
+    text-align: center;
+    /* Top padding bigger because of Iphone notches */
+    padding: 20px 10px 5px 10px;
+    font-size: 220%;
+}
+
+nav {
+    background-color: #c3ba7a;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 10px;
+}
+
+header a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: inherit;
+}
