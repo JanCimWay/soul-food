@@ -32,6 +32,33 @@
         </nav>
     </header>
     <main>
+        <section id="signup">
+            <form action="thankyou.html" id="signup-form" method="get">
+                <h2> Sign up for newsletter</h2>
+                <label for="first-name">First name</label>
+                <input type="text" name="first_name" id="first-name" class="text-input" required>
+                <label for="last-name">Last name</label>
+                <input type="text" name="last_name" id="last-name" class="text-input" required>
+                <label for="email">First name</label>
+                <input type="email" name="email" id="email" class="text-input" required>
+                <p>How did You find out obout us?</p>
+                <div id="radio-button">
+                    <div>
+                        <input type="radio" name="how_found" id="friends" value="friends" required checked>
+                        <label for="friends">Friends</label>
+                    </div>
+                    <div>
+                        <input type="radio" name="how_found" id="soc-media" value="soc-media" required checked>
+                        <label for="soc-media">Social media</label>
+                    </div>
+                    <div>
+                        <input type="radio" name="how_found" id="add" value="add" required checked>
+                        <label for="add">Advertisement</label>
+                    </div>
+                </div>
+                <button type="submit" id="signup-button">Sign up!</button>
+            </form>
+        </section>
     </main>
     <footer>
         <div id="soc-netw">
