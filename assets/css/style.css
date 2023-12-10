@@ -187,6 +187,19 @@ main {
     background: url(../images/thank-you-bg/thanks.webp) no-repeat 45% center/cover;
 }
 
+/* Gallery */
+
+#gallery {
+    padding: 10vw 10%;
+    display: flex;
+    flex-direction: column;
+}
+
+#menu-pics img {
+    width: 80vw;
+    max-width: 500 px;
+}
+
 /* Footer formating */
 #soc-netw {
     background-color: #c3ba7a;
