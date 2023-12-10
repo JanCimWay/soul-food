@@ -56,6 +56,10 @@ header a {
     text-transform: uppercase;
 }
 
+.active {
+    border-bottom: 2px solid #423f03;
+}
+
  /* Main content formating */
 
  /* Main content */
