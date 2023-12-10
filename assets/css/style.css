@@ -145,9 +145,36 @@ main {
 
 /* Sign up form */
 
+#signup {
+    background: url("../images/signup-bg/signup-bg.webp") no-repeat center center/cover;
+    flex-grow: 1;
+    padding: 10vw 10%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+#signup-form {
+    background-color: #c3ba7abf;
+    max-width: 800px;
+    padding: 10%;
+}
+
 .text-input {
     width: 100%;
     max-width: 250px;
+    height: 25px;
+    border-radius: 3px;
+    background-color: transparent;
+    color:#423f03;
+}
+
+#signup-button {
+    padding: 10px 20px;
+    background-color: #423f03;
+    color: #eee4a2;
+    border-radius: 5px;
+    margin-top: 10px;
 }
 
 /* Footer formating */
