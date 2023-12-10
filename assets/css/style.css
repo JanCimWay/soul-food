@@ -143,6 +143,13 @@ main {
     margin: 0 10% 20px 10%;
 }
 
+/* Sign up form */
+
+.text-input {
+    width: 100%;
+    max-width: 250px;
+}
+
 /* Footer formating */
 #soc-netw {
     background-color: #c3ba7a;
