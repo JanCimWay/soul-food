@@ -156,13 +156,13 @@ main {
 
 #signup-form {
     background-color: #c3ba7abf;
-    max-width: 800px;
+    max-width: 500px;
     padding: 10%;
 }
 
 .text-input {
     width: 100%;
-    max-width: 250px;
+    max-width: 400px;
     height: 25px;
     border-radius: 3px;
     background-color: transparent;
