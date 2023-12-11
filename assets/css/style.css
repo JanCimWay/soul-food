@@ -184,7 +184,8 @@ main {
 /* Thank You page */
 
 #thanks {
-    background: url(../images/thank-you-bg/thanks.webp) no-repeat 45% center/cover;
+    background: url("../images/thank-you-bg/thanks.webp") no-repeat 45% center/cover;
+    flex-grow 1;
 }
 
 /* Gallery */
