@@ -268,4 +268,19 @@ main {
     nav a {
         margin-left: 50px;
     }
+
+    #about {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .about-content {
+        flex:1;
+    }
+    
+    .about-content img {
+        margin: 20px 0;
+    }
+
 }
