@@ -201,6 +201,40 @@ main {
     max-width: 500 px;
 }
 
+/* Recipe */
+
+#recip-content img {
+    width: 80vw;
+    height: 80vw;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#recipe {
+    /* display: flex; */
+    flex-direction: column;
+    padding: 10px 20px;
+    align-items: center;
+}
+
+#recip-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#ingr-list {
+    margin-left: 30px;
+}
+
+#instructions p {
+    text-align: justify;
+}
+
+#prep-time p {
+    text-align: center;
+}
+
 /* Footer formating */
 #soc-netw {
     background-color: #c3ba7a;
