@@ -235,6 +235,10 @@ main {
     text-align: center;
 }
 
+#recip-content h3 {
+    margin-top: 10px;
+}
+
 /* Footer formating */
 #soc-netw {
     background-color: #c3ba7a;
