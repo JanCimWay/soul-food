@@ -288,4 +288,14 @@ main {
         margin: 20px 0;
     }
 
+    #signup-form {
+        padding: 60px;
+    }
+
+}
+
+@media screen and (min-width: 950px) {
+    #copyright a:hover {
+        color: #423f03;
+    }
 }
