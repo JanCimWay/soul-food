@@ -26,7 +26,6 @@ a {
 table {
     width: 80vw;
     box-align: center;
-    /* Should check do I need this*/
     max-width: 500px;
 }
 
@@ -218,7 +217,7 @@ main {
 }
 
 #recipe {
-    /* display: flex; */
+    display: flex;
     flex-direction: column;
     padding: 10px 20px;
     align-items: center;
@@ -244,6 +243,16 @@ main {
 
 #recip-content h3 {
     margin-top: 10px;
+}
+
+#recipe h2 {
+    margin-bottom: 20px;
+}
+
+#ingr-and-photo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 /* Footer formating */
@@ -307,6 +316,22 @@ main {
 
     #gallery {
         column-count: 3;
+    }
+
+    #ingr-and-photo {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #instructions {
+        max-width: 800px;
+    }
+
+    #ingr-and-photo h3 {
+        margin: 0 0 10px 30px;
+        text-align: left;
     }
 }
 
