@@ -83,6 +83,10 @@ header a {
     border-bottom: 2px solid #423f03;
 }
 
+#logo {
+    max-width: 300px;
+}
+
 /* Main content formating */
 
 /* Main content */
