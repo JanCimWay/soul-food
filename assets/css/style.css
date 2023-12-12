@@ -196,14 +196,16 @@ main {
 /* Gallery */
 
 #gallery {
-    padding: 10vw 10%;
+    padding: 10vw 30px;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 
 #menu-pics img {
     width: 80vw;
-    max-width: 500 px;
+    max-width: 250px;
 }
 
 /* Recipe */
@@ -283,7 +285,7 @@ main {
     .about-content {
         flex:1;
     }
-    
+
     .about-content img {
         margin: 20px 0;
     }
@@ -298,7 +300,18 @@ main {
     #copyright a:hover {
         color: #423f03;
     }
+
     nav a:hover {
         text-shadow: 0 0 3px #423f03;
+    }
+
+    #gallery {
+        column-count: 3;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    #gallery {
+        column-count: 4;
     }
 }
