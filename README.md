@@ -6,7 +6,7 @@ Our potential customer will be aged between 25 and 40, with average income, soci
 
 The web page is created for the potential customers of the restaurant. In the page, they con get the "feeling" of the restaurant, see the galley of menu and even some recipes. At the same time, get some general information about the idea of the restaurant.
 
-! [Responsive design] (assets/images/readme-img/Responsiv.webp)
+![Design is responsive](/assets/images/readme-img/Responsiv-jpg.jpg)
 
 ## User Experience (UX)
 
@@ -60,7 +60,7 @@ in desctiprion - devices, programms, links, who? devtools
 
 ### Forking GitHub
  
- - need to go through one more time
+ need to go through one more time
 
 ### Local clone
 
@@ -74,12 +74,16 @@ in the sample -  flexbox guide, readme template by codeinstitute
 
 ## Content
 
-- who created the content - me
-- in the sample mentioned 
+* Content was completely created by developer and his family members
+* [Favicon](https://favicon.io/) - tool for creating favicon from image
+* [Fontawsome](https://fontawesome.com/) - icon resource
+* [Mycolor.space](https://mycolor.space/) - color pallete generator
 
 ### Media
 
--img bank etc
+* [Pixabay](https://pixabay.com/) - Royality free mage source
+* [Convertio](https://convertio.co/) - Tool for converting pictures from *.jpg to *.webp
+* [FreeConvert](https://www.freeconvert.com/) - Tool for converting pictures from *.jpg to *.webp
 
 ## Acknowledgement
 
