@@ -1,39 +1,85 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Soul kitchen
 
-Welcome,
+Soul food is a restaurant for people who are interested in new taste experience but to enjoy in the
+home cosines and simplicity.
+Our potential customer will be aged between 25 and 40, with average income, socially active and regular eating outside home.  
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The web page is created for the potential customers of the restaurant. In the page, they con get the "feeling" of the restaurant, see the galley of menu and even some recipes. At the same time, get some general information about the idea of the restaurant.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+! [Responsive design] (assets/images/readme-img/Responsiv.webp)
 
-## Codeanywhere Reminders
+## User Experience (UX)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+???
 
-`python3 -m http.server`
+### User stories
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+????
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## Features
 
-`http_server`
+Here section by section
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Design
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+color scheme
+typography
+wireframes
+more?
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Technologies used
 
-To log into the Heroku toolbelt CLI:
+Needed?
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Frameworks, Libraries & Programs Used
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+Gitpod, git, github, google fonts, am I responsive
 
----
+## Testing
 
-Happy coding!
+- markup validator
+- css validator
+
+### Validation results
+
+### Manual testing
+
+in desctiprion - devices, programms, links, who? devtools
+
+### Lighthouse report
+
+#### Report on mobile devices
+
+#### Report on Desktops
+
+## Deployment and local development
+
+### Github pages
+
+- here is an example about the steps in lectures
+
+### Forking GitHub
+ 
+ - need to go through one more time
+
+### Local clone
+
+- could it be that I describe here downolading zip on PC and working with seperate elements via "Visual studio"?
+
+## Credits
+
+### Code
+
+in the sample -  flexbox guide, readme template by codeinstitute
+
+## Content
+
+- who created the content - me
+- in the sample mentioned 
+
+### Media
+
+-img bank etc
+
+## Acknowledgement
+
