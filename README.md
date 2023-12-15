@@ -119,6 +119,8 @@ This webpage is created for new customers and existing customers of the restaurt
  * [Codeanywhere](https://codeanywhere.com/) for writing code
  * [GitHub](https://github.com/)for storage of the site
  * [Inscape](<https://inkscape.org/>) for creating wireframes
+ * [Mockup](https://ui.dev/amiresponsive) used for the mockup picture of readme file
+ * [Google fonts](https://fonts.google.com/) for the used fonts in the website
 
 ## Testing
 
