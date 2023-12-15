@@ -116,7 +116,9 @@ This webpage is created for new customers and existing customers of the restaurt
 
 ## Frameworks, Libraries & Programs Used
 
-Gitpod, git, github, google fonts, am I responsive
+ * [Codeanywhere](https://codeanywhere.com/) for writing code
+ * [GitHub](https://github.com/)for storage of the site
+ * [Inscape](<https://inkscape.org/>) for creating wireframes
 
 ## Testing
 
