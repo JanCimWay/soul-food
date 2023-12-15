@@ -95,14 +95,24 @@ This webpage is created for new customers and existing customers of the restaurt
 
 ## Design
 
-color scheme
-typography
-wireframes
-more?
+ * Color scheme
+   * On the website there are 3 main colors used from HEX color pallet: #eee4a2, #423f03, #c3ba7a. Color choice was made making some visual experiments as firstly there were 3 different pallets, from which was a need to choose only one:
+
+![color palletes](/assets/images/prtscreens/color-schemes.jpg)
+
+ * Fonts
+   * As heading font in the page is used Montserrat and for the paragraph text it is Promt, as it was found very simmilar but better readable for smaller font sizes. For both of them sans-serif is used as fallback font.
+
+ * Wireframes
+   * For creating layout from which the starting version could be developed, theer were made sketches to understand potential location of the objects on the wide and narrow sceen. Wireframe as well was used to confirm the choice of color pallete and fonts. In the process of developement slight changes in the design was changed.
+
+![Wireframe](/assets/images/prtscreens/wireframe.jpg)
 
 ## Technologies used
 
-Needed?
+ * HTML5
+ * CSS
+
 
 ## Frameworks, Libraries & Programs Used
 
