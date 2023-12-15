@@ -88,6 +88,11 @@ This webpage is created for new customers and existing customers of the restaurt
 
 ### Features left to implement
 
+ * Adding new pictures in gallery and recipies in seperate page, when new meals come in 
+ * Possibiltiy to leave a review in the page, which would be visible for other visitors visitors
+ * Adding an iframe with map for easier finding the restaurant
+ * Create seperate page "Today's menu" whith the menu for the day.
+
 ## Design
 
 color scheme
