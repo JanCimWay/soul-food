@@ -10,11 +10,24 @@ The web page is created for the potential customers of the restaurant. In the pa
 
 ## User Experience (UX)
 
-???
+Webpage is created for new and existing customers of the restaurant "Soul Food". Where in the index page used can get the general information about the restaurant - concept, information about chef and working hours. Using well visible navigation, customer can get to a signup page, to register for a news letter. As well using the navigation customer can get to the gallery page, to check the pictures of the meals. And each of the gallery images can lead the customer to recipe of particular meal.
 
 ### User stories
 
-????
+ * First time visitor goal:
+   * To find oud what king of restaurant is the "Soul Food" - the idea of the restaurant
+   * What is so special about the restaurtants Chef
+   * Check the gallery
+   * Signup for newsletter
+
+ * Returning visitor goals:
+   * Find the restaurant working hours
+   * In the galerry section make a potential chouice for the meal
+ 
+ * Frequent visitor goals:
+   * Make the choice of the meal, not only based on the pictures, but as well based on the recipies how they are made - the process and the ingridients!
+
+
 
 ## Features
 
@@ -48,9 +61,17 @@ in desctiprion - devices, programms, links, who? devtools
 
 ### Lighthouse report
 
+
+
 #### Report on mobile devices
 
 #### Report on Desktops
+
+<details>
+<summary>Index page (Home) </summary>
+
+![Index page lighthouse report - mobile](/assets/images/light-rep-desk/light-desk-index.PNG)
+</details>
 
 ## Deployment and local development
 

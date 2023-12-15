@@ -39,7 +39,7 @@ img {
     border-radius: 20px;
     margin: 20px;
     width: 80%;
-    max-width: 350px; 
+    max-width: 350px;
 }
 
 h1 {
@@ -143,7 +143,7 @@ main {
 }
 
 .hidden-header {
-    display:none;
+    display: none;
 }
 
 /* Sign up form */
@@ -168,7 +168,7 @@ main {
     height: 25px;
     border-radius: 3px;
     background-color: transparent;
-    color:#423f03;
+    color: #423f03;
 }
 
 #signup-button {
@@ -291,7 +291,7 @@ main {
     }
 
     .about-content {
-        flex:1;
+        flex: 1;
     }
 
     .about-content img {
