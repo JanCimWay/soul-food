@@ -22,7 +22,7 @@ Webpage is created for new and existing customers of the restaurant "Soul Food".
 
  * Returning visitor goals:
    * Find the restaurant working hours
-   * In the galerry section make a potential chouice for the meal
+   * In the gallery section make a potential chouice for the meal
  
  * Frequent visitor goals:
    * Make the choice of the meal, not only based on the pictures, but as well based on the recipies how they are made - the process and the ingridients!
@@ -31,7 +31,62 @@ Webpage is created for new and existing customers of the restaurant "Soul Food".
 
 ## Features
 
-Here section by section
+This webpage is created for new customers and existing customers of the restaurtant, who can navigate throught the web page to find potentially all the necessary  and available information for the moment and sign up for the newsleter to be updated for potential upgrades or news.
+
+### Existing Features
+
+ * Heading
+   * A fixed position heading consists of 2 parts located in 2 lines - logo and navigation, where logo can be used as well as return button to index page. 
+
+![Heading](/assets/images/prtscreens/header.jpg)
+
+ * Navigation
+   * Navigation bar is equipped with 3 buttons, in which the active page is indicated with underline, but to highlight to user that this is not just a text, but those are active buttons, there will be added a shadow to the button text, when moving the mouse over it
+
+![Navigation](/assets/images/prtscreens/nav.jpg)
+
+ * Footer
+   * Footer in a very neutral design, but information that user will intuitive search on the buttom o the page, consits of 2 rows, in first of which are the links to social media, but in the second is a copyright information, with link to authors page.
+
+![Footer](/assets/images/prtscreens/footer.jpg)
+
+ * Hero section (section in Index page)
+   * Hero sections main function is to give the idea and deliver the "feeling" of the restaurant, for this reason is used a slogan and a hero image.
+
+![Hero section](/assets/images/prtscreens/hero.jpg)
+
+ * Working hours (section in Index page)
+   * For first time visitors as well the regular visutors, one of the most important details to find is working hours, this is why it is located as first information, right after the hero image. Working hours are formed in a picture, to be visualy easier to read them.
+
+![Working hours](/assets/images/prtscreens/working-hours.jpg)
+
+ * About (section in Index page)
+   * This is an introductionary part, mostle for first time visitors to understand what is so special in this restaurant, by reading the spory of how the idea of reataurant was inspired, and short story about the chef.
+
+![About](/assets/images/prtscreens/about-section.jpg)
+
+ * Sign up page
+   * With help of the page, visitor can leave his date, to receive the newsleter, but reastaurtan, is collecting some statistics, about how do the web page visitors have found out about them.
+
+![Sign up](/assets/images/prtscreens/signup.jpg)
+
+ * Thank You page
+   * Note for the visitor that we have received the sign up form.
+
+![Thank You](/assets/images/prtscreens/thanks.jpg)
+
+ * Gallery page
+   * Page to get a visual impression, what meal they can get in the restaurant, besides that, click on each of the gallery image, can lead the visitor to recipe of particular meal.
+
+![Gallery](/assets/images/prtscreens/gallery.jpg)
+
+ * Recipe page (in total there are 10 seperate recipe pages, but made based on one template)
+   * Those pages are not included in navigation, as the main goal of the page is not sharing the recipes, but sharing them is a tool of sharing the approach to the cooking. Each recipe page includes info about the ingidients used, time spent and cooking procedure, whicg potentialy could potentialy help the customer to choose the meal.
+
+![Recipe](/assets/images/prtscreens/recipe.jpg)
+
+
+### Features left to implement
 
 ## Design
 
