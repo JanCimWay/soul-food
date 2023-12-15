@@ -42,15 +42,6 @@ img {
     max-width: 350px; 
 }
 
-/* Header */
-
-header {
-    position: fixed;
-    z-index: 99;
-    width: 100%;
-    background-color: inherit;
-}
-
 h1 {
     padding: 20px 10px 5px 10px;
     font-size: 220%;
@@ -67,6 +58,15 @@ h2,
 h3 {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
+}
+
+/* Header */
+
+header {
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    background-color: inherit;
 }
 
 nav {
@@ -155,7 +155,6 @@ main {
     display: flex;
     flex-direction: column;
 }
-
 
 #signup-form {
     background-color: #c3ba7abf;
