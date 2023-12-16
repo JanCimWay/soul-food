@@ -124,10 +124,104 @@ This webpage is created for new customers and existing customers of the restaurt
 
 ## Testing
 
-- markup validator
-- css validator
+ * Testing was done in few ways: manualy, by testing page via developer tools to check the responsivnes. And as well the code was tested with using special elements.
 
-### Validation results
+### Validation testing
+
+ * Code from each of HTML and CSS pages were checked by validator. For the HTML files was used [W3C Markup Validator](https://validator.w3.org/) and for CSS [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+ * Results:
+
+<details>
+<summary>index.html</summary>
+
+![Index page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+<details>
+
+<summary>gallery.html</summary>
+![Gallery page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+<details>
+<summary>signup.html</summary>
+
+![Sign up page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+<details>
+<summary>thankyou.html</summary>
+
+![Thank You page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+<details>
+<summary>recipe-banana-pancakes.html</summary>
+
+![Banana pancake recipe page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+<details>
+<summary>recipe-cesar-salad.html</summary>
+
+![Cesar salad recipe page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+<details>
+<summary>recipe-oatmeal.html</summary>
+
+![Oatmeal recipe page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+<details>
+<summary>recipe-omlete.html</summary>
+
+![Omlete recipe page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+<details>
+<summary>recipe-pancake.html</summary>
+
+![Sweet pancakges recipe page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+<details>
+<summary>recipe-pesto-chick.html</summary>
+
+![Pesto chicken recipe page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+<details>
+<summary>recipe-quinoe-chickpeas.html</summary>
+
+![Quinoe chickenpeas recipe page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+<details>
+<summary>recipe-salamon-veg.html</summary>
+
+![Salamon with vegetables recipe page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+<details>
+<summary>recipe-steak.html</summary>
+
+![Steak recipe page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+<details>
+<summary>recipe-tomato-soup.html</summary>
+
+![Tomato soup recipe page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+</details>
+
+
+<details>
+<summary>style.css</summary>
+
+![CSS validation](/assets/images/validator-prtscr/valid-css.jpg)
+</details>
+
 
 ### Manual testing
 
