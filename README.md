@@ -470,6 +470,7 @@ Site can be found: (https://jancimway.github.io/soul-food/)
  * [Code instutute template](https://github.com/Code-Institute-Org/ci-full-template)
  * As an example for structure of [README](https://github.com/Thomas-Tomo/Lunar-Escape) by Thomas-Tomo 
  * Code instutute lecture materials
+ * Slack community
 
 ---
 
