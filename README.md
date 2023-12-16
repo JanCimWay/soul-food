@@ -140,6 +140,7 @@ This webpage is created for new customers and existing customers of the restaurt
 <details>
 
 <summary>gallery.html</summary>
+
 ![Gallery page validation result](/assets/images/validator-prtscr/valid-html.jpg)
 </details>
 
@@ -225,7 +226,9 @@ This webpage is created for new customers and existing customers of the restaurt
 
 ### Manual testing
 
-in desctiprion - devices, programms, links, who? devtools
+ * Web page was tested on 3 different devices - MacBook, PC and an Iphone12.
+ * On different browsers Microsoft Edge, Google chrome and Safari
+ * In paralel with opening the pageon different screens, devtools were used to double check the responsivnes of web page.
 
 ### Lighthouse report
 
