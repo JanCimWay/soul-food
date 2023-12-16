@@ -153,7 +153,7 @@ This webpage is created for new customers and existing customers of the restaurt
 <details>
 <summary>thankyou.html</summary>
 
-![Thank You page validation result](/assets/images/validator-prtscr/valid-html.jpg)
+![Thank You page validation result](/assets/images/validator-prtscr/valid-html.JPG)
 </details>
 
 <details>
@@ -232,16 +232,176 @@ This webpage is created for new customers and existing customers of the restaurt
 
 ### Lighthouse report
 
-
-
 #### Report on mobile devices
+
+<details>
+<summary>Index (Home) page </summary>
+
+![Index page lighthouse report - mobile](/assets/images/light-rep-mob/light-mob-index.jpg)
+</details>
+
+<details>
+<summary>Gallery page</summary>
+
+![Gallery page lighthouse report - mobile](/assets/images/light-rep-mob/light-mob-gallery.jpg)
+</details>
+
+<details>
+<summary>Sign up page</summary>
+
+![Signup page lighthouse report - mobile](/assets/images/light-rep-mob/light-mob-signup.jpg)
+</details>
+
+<details>
+<summary>Thank You page</summary>
+
+![Thank You page lighthouse report - mobile](/assets/images/light-rep-mob/light-mob-thanks.jpg)
+</details>
+
+<details>
+<summary>Banana panckake recipe page </summary>
+
+![Banana pancake recipe page lighthouse report - mobile](/assets/images/light-rep-mob/L-mob-recipe-banan-panc.jpg)
+</details>
+
+<details>
+<summary>Cesar salad recipe page </summary>
+
+![Cesar salad recipe page lighthouse report - mobile](/assets/images/light-rep-mob/L-mob-recipe-cesar.jpg)
+</details>
+
+<details>
+<summary>Chicken recipe page </summary>
+
+![Chicken recipe page lighthouse report - mobile](/assets/images/light-rep-mob/L-mob-recipe-chicken.jpg)
+</details>
+
+<details>
+<summary>Oatmeal recipe page </summary>
+
+![Oatmeal recipe page lighthouse report - mobile](/assets/images/light-rep-mob/L-mob-recipe-oatmeal.jpg)
+</details>
+
+<details>
+<summary>Omlet recipe page </summary>
+
+![Omlet recipe page lighthouse report - mobile](/assets/images/light-rep-mob/L-mob-recipe-omlet.jpg)
+</details>
+
+<details>
+<summary>Quinoa salad recipe page </summary>
+
+![Quinoa salad recipe page lighthouse report - mobile](/assets/images/light-rep-mob/L-mob-recipe-quinoa.jpg)
+</details>
+
+<details>
+<summary>Salamon recipe page </summary>
+
+![Salamon recipe page lighthouse report - mobile](/assets/images/light-rep-mob/L-mob-recipe-salamon.jpg)
+</details>
+
+<details>
+<summary>Tomatoe soup recipe page </summary>
+
+![Salamon recipe page lighthouse report - mobile](/assets/images/light-rep-mob/L-mob-recipe-soup.jpg)
+</details>
+
+<details>
+<summary>Steak recipe page </summary>
+
+![Steak recipe page lighthouse report - mobile](/assets/images/light-rep-mob/L-mob-recipe-steak.jpg)
+</details>
+
+<details>
+<summary>Zuccini pancake recipe page </summary>
+
+![Zuccini paccake recipe page lighthouse report - mobile](/assets/images/light-rep-mob/L-mob-recipe-zc-pancake.jpg)
+</details>
 
 #### Report on Desktops
 
 <details>
-<summary>Index page (Home) </summary>
+<summary>Index (Home) page </summary>
 
-![Index page lighthouse report - mobile](/assets/images/light-rep-desk/light-desk-index.PNG)
+![Index page lighthouse report - desktop](/assets/images/light-rep-desk/light-desk-index.jpg)
+</details>
+
+<details>
+<summary>Gallery page</summary>
+
+![Gallery page lighthouse report - desktop](/assets/images/light-rep-desk/light-desk-gallery.jpg)
+</details>
+
+<details>
+<summary>Sign up page</summary>
+
+![Signup page lighthouse report - desktop](/assets/images/light-rep-desk/light-desk-signup.jpg)
+</details>
+
+<details>
+<summary>Thank You page</summary>
+
+![Thank You page lighthouse report - desktop](/assets/images/light-rep-desk/light-desk-thanks.JPG)
+</details>
+
+<details>
+<summary>Banana panckake recipe page </summary>
+
+![Banana pancake recipe page lighthouse report - desktop](/assets/images/light-rep-desk/L-desk-recipe-banan-panc.jpg)
+</details>
+
+<details>
+<summary>Cesar salad recipe page </summary>
+
+![Cesar salad recipe page lighthouse report - desktop](/assets/images/light-rep-desk/L-desk-recipe-cesar.jpg)
+</details>
+
+<details>
+<summary>Chicken recipe page </summary>
+
+![Chicken recipe page lighthouse report - desktop](/assets/images/light-rep-desk/L-desk-recipe-chicken.jpg)
+</details>
+
+<details>
+<summary>Oatmeal recipe page </summary>
+
+![Oatmeal recipe page lighthouse report - desktop](/assets/images/light-rep-desk/L-desk-recipe-oatmeal.jpg)
+</details>
+
+<details>
+<summary>Omlet recipe page </summary>
+
+![Omlet recipe page lighthouse report - desktop](/assets/images/light-rep-desk/L-desk-recipe-omlet.jpg)
+</details>
+
+<details>
+<summary>Quinoa salad recipe page </summary>
+
+![Quinoa salad recipe page lighthouse report - desktop](/assets/images/light-rep-desk/L-desk-recipe-quinoa.jpg)
+</details>
+
+<details>
+<summary>Salamon recipe page </summary>
+
+![Salamon recipe page lighthouse report - desktop](/assets/images/light-rep-desk/L-desk-recipe-salamon.jpg)
+</details>
+
+<details>
+<summary>Tomatoe soup recipe page </summary>
+
+![Salamon recipe page lighthouse report - desktop](/assets/images/light-rep-desk/L-desk-recipe-soup.jpg)
+</details>
+
+<details>
+<summary>Steak recipe page </summary>
+
+![Steak recipe page lighthouse report - desktop](/assets/images/light-rep-desk/L-desk-recipe-steak.jpg)
+</details>
+
+<details>
+<summary>Zuccini pancake recipe page </summary>
+
+![Zuccini paccake recipe page lighthouse report - desktop](/assets/images/light-rep-desk/L-desk-recipe-zc-pancake.jpg)
 </details>
 
 ## Deployment and local development
