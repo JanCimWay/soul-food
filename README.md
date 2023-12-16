@@ -90,7 +90,7 @@ This webpage is created for new customers and existing customers of the restaurt
 ![Working hours](/assets/images/prtscreens/working-hours.jpg)
 
  * About (section in Index page)
-   * This is an introductionary part, mostle for first time visitors to understand what is so special in this restaurant, by reading the spory of how the idea of reataurant was inspired, and short story about the chef.
+   * This is an introductionary part, mostle for first time visitors to understand what is so special in this restaurant, by reading the spory of how the idea of restaurant was inspired, and short story about the chef.
 
 ![About](/assets/images/prtscreens/about-section.jpg)
 
@@ -118,7 +118,7 @@ This webpage is created for new customers and existing customers of the restaurt
 ### Features left to implement
 
  * Adding new pictures in gallery and recipies in seperate page, when new meals come in 
- * Possibiltiy to leave a review in the page, which would be visible for other visitors visitors
+ * Possibiltiy to leave a review in the page, which would be visible for other visitors 
  * Adding an iframe with map for easier finding the restaurant
  * Create seperate page "Today's menu" whith the menu for the day.
 
@@ -432,6 +432,11 @@ This webpage is created for new customers and existing customers of the restaurt
 
 ![Zuccini paccake recipe page lighthouse report - desktop](/assets/images/light-rep-desk/L-desk-recipe-zc-pancake.jpg)
 </details>
+
+### Bugs Fixed
+
+ * During the last testing phase using [W3C Markup Validator](https://validator.w3.org/) a missing <div> closing tag was noticed in one of the recipe pages, so it had to be placed in all 10 of them
+ * Button in the heading with logo on it, was covering the heading in all width, had to be fixed.
 
 ## Deployment and local development
 
