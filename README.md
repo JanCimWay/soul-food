@@ -26,10 +26,8 @@ The web page is created for the potential customers of the restaurant. In the pa
 ## [Lighthouse report](#lighthouse-report)
 ### [Report on mobile devices](#report-on-mobile-devices)
 ### [Report on Desktops](#report-on-desktops)
-## [Deployment and local development](#deployment-and-local-development)
+## [Deployment](#deployment)
 ### [Github pages](#github-pages)
-### [Forking GitHub](#forking-github)
-### [Local clone](#local-clone)
 ## [Credits](#credits)
 ### [Code](#code)
 ## [Content](#content)
@@ -56,7 +54,7 @@ Webpage is created for new and existing customers of the restaurant "Soul Food".
  * Frequent visitor goals:
    * Make the choice of the meal, not only based on the pictures, but as well based on the recipies how they are made - the process and the ingridients!
 
-
+---
 
 ## Features
 
@@ -122,6 +120,8 @@ This webpage is created for new customers and existing customers of the restaurt
  * Adding an iframe with map for easier finding the restaurant
  * Create seperate page "Today's menu" whith the menu for the day.
 
+---
+
 ## Design
 
  * Color scheme
@@ -137,11 +137,14 @@ This webpage is created for new customers and existing customers of the restaurt
 
 ![Wireframe](/assets/images/prtscreens/wireframe.jpg)
 
+---
+
 ## Technologies used
 
  * HTML5
  * CSS
 
+---
 
 ## Frameworks, Libraries & Programs Used
 
@@ -150,6 +153,8 @@ This webpage is created for new customers and existing customers of the restaurt
  * [Inscape](<https://inkscape.org/>) for creating wireframes
  * [Mockup](https://ui.dev/amiresponsive) used for the mockup picture of readme file
  * [Google fonts](https://fonts.google.com/) for the used fonts in the website
+
+---
 
 ## Testing
 
@@ -438,25 +443,35 @@ This webpage is created for new customers and existing customers of the restaurt
  * During the last testing phase using [W3C Markup Validator](https://validator.w3.org/) a missing <div> closing tag was noticed in one of the recipe pages, so it had to be placed in all 10 of them
  * Button in the heading with logo on it, was covering the heading in all width, had to be fixed.
 
-## Deployment and local development
+---
+
+## Deployment
 
 ### Github pages
 
-- here is an example about the steps in lectures
+ * The webpage wes deployed to GitHub pages. For that were done following steps:
+   * Open the GiHub
+   * In the repositories open "soul-food"
+   * On the top navigation find button "Settings"
+   * in the left side menu find pages (in section "code and automation")
+   * In the menu "Build and deplayment" select:
+     * Source - "Deploy from a branch"
+     * "main"
+     * /(root)
+   * Click "save"
 
-### Forking GitHub
- 
- need to go through one more time
-
-### Local clone
-
-- could it be that I describe here downolading zip on PC and working with seperate elements via "Visual studio"?
+Site can be found: (https://jancimway.github.io/soul-food/)
 
 ## Credits
 
 ### Code
 
-in the sample -  flexbox guide, readme template by codeinstitute
+ * Getting some general ideas of biulding a site - Code institute walkthrought project "Love Running"
+ * [Code instutute template](https://github.com/Code-Institute-Org/ci-full-template)
+ * As an example for structure of [README](https://github.com/Thomas-Tomo/Lunar-Escape) by Thomas-Tomo 
+ * Code instutute lecture materials
+
+---
 
 ## Content
 
@@ -464,12 +479,11 @@ in the sample -  flexbox guide, readme template by codeinstitute
 * [Favicon](https://favicon.io/) - tool for creating favicon from image
 * [Fontawsome](https://fontawesome.com/) - icon resource
 * [Mycolor.space](https://mycolor.space/) - color pallete generator
+* Choice of colors was done wiht help of [colormind](http://colormind.io/)
+* Suggestions of Mentor - Mitko Bachvarov
 
 ### Media
 
 * [Pixabay](https://pixabay.com/) - Royality free mage source
 * [Convertio](https://convertio.co/) - Tool for converting pictures from *.jpg to *.webp
 * [FreeConvert](https://www.freeconvert.com/) - Tool for converting pictures from *.jpg to *.webp
-
-## Acknowledgement
-
