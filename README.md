@@ -8,6 +8,35 @@ The web page is created for the potential customers of the restaurant. In the pa
 
 ![Design is responsive](/assets/images/readme-img/Responsiv-jpg.jpg)
 
+---
+
+## Table of content
+
+## [Users experience (UX)](#user-experience-ux)
+### [User stories](#user-stories)
+## [Features](#features)
+### [Existing features](#existing-features)
+### [Features left to implement](#features-left-to-implement)
+## [Design](Design)
+## [Techologies used](#technologies-used)
+## [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
+## [Testing](#testing)
+### [Validation testing](#validation-testing)
+### [Manual testing](#manual-testing)
+## [Lighthouse report](#lighthouse-report)
+### [Report on mobile devices](#report-on-mobile-devices)
+### [Report on Desktops](#report-on-desktops)
+## [Deployment and local development](#deployment-and-local-development)
+### [Github pages](#github-pages)
+### [Forking GitHub](#forking-github)
+### [Local clone](#local-clone)
+## [Credits](#credits)
+### [Code](#code)
+## [Content](#content)
+### [Media](#media)
+
+---
+
 ## User Experience (UX)
 
 Webpage is created for new and existing customers of the restaurant "Soul Food". Where in the index page used can get the general information about the restaurant - concept, information about chef and working hours. Using well visible navigation, customer can get to a signup page, to register for a news letter. As well using the navigation customer can get to the gallery page, to check the pictures of the meals. And each of the gallery images can lead the customer to recipe of particular meal.
