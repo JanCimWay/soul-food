@@ -13,24 +13,43 @@ The web page is created for the potential customers of the restaurant. In the pa
 ## Table of content
 
 ## [Users experience (UX)](#user-experience-ux)
+
 ### [User stories](#user-stories)
+
 ## [Features](#features)
+
 ### [Existing features](#existing-features)
+
 ### [Features left to implement](#features-left-to-implement)
+
 ## [Design](Design)
+
 ## [Techologies used](#technologies-used)
+
 ## [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
+
 ## [Testing](#testing)
+
 ### [Validation testing](#validation-testing)
+
 ### [Manual testing](#manual-testing)
+
 ## [Lighthouse report](#lighthouse-report)
+
 ### [Report on mobile devices](#report-on-mobile-devices)
+
 ### [Report on Desktops](#report-on-desktops)
+
 ## [Deployment](#deployment)
+
 ### [Github pages](#github-pages)
+
 ## [Credits](#credits)
+
 ### [Code](#code)
+
 ## [Content](#content)
+
 ### [Media](#media)
 
 ---
@@ -41,18 +60,18 @@ Webpage is created for new and existing customers of the restaurant "Soul Food".
 
 ### User stories
 
- * First time visitor goal:
-   * To find oud what king of restaurant is the "Soul Food" - the idea of the restaurant
-   * What is so special about the restaurtants Chef
-   * Check the gallery
-   * Signup for newsletter
+* First time visitor goal:
+  * To find oud what king of restaurant is the "Soul Food" - the idea of the restaurant
+  * What is so special about the restaurtants Chef
+  * Check the gallery
+  * Signup for newsletter
 
- * Returning visitor goals:
-   * Find the restaurant working hours
-   * In the gallery section make a potential chouice for the meal
- 
- * Frequent visitor goals:
-   * Make the choice of the meal, not only based on the pictures, but as well based on the recipies how they are made - the process and the ingridients!
+* Returning visitor goals:
+  * Find the restaurant working hours
+  * In the gallery section make a potential chouice for the meal
+
+* Frequent visitor goals:
+  * Make the choice of the meal, not only based on the pictures, but as well based on the recipies how they are made - the process and the ingridients!
 
 ---
 
@@ -62,78 +81,77 @@ This webpage is created for new customers and existing customers of the restaurt
 
 ### Existing Features
 
- * Heading
-   * A fixed position heading consists of 2 parts located in 2 lines - logo and navigation, where logo can be used as well as return button to index page. 
+* Heading
+  * A fixed position heading consists of 2 parts located in 2 lines - logo and navigation, where logo can be used as well as return button to index page.
 
 ![Heading](/assets/images/prtscreens/header.jpg)
 
- * Navigation
-   * Navigation bar is equipped with 3 buttons, in which the active page is indicated with underline, but to highlight to user that this is not just a text, but those are active buttons, there will be added a shadow to the button text, when moving the mouse over it
+* Navigation
+  * Navigation bar is equipped with 3 buttons, in which the active page is indicated with underline, but to highlight to user that this is not just a text, but those are active buttons, there will be added a shadow to the button text, when moving the mouse over it
 
 ![Navigation](/assets/images/prtscreens/nav.jpg)
 
- * Footer
-   * Footer in a very neutral design, but information that user will intuitive search on the buttom o the page, consits of 2 rows, in first of which are the links to social media, but in the second is a copyright information, with link to authors page.
+* Footer
+  * Footer in a very neutral design, but information that user will intuitive search on the buttom o the page, consits of 2 rows, in first of which are the links to social media, but in the second is a copyright information, with link to authors page.
 
 ![Footer](/assets/images/prtscreens/footer.jpg)
 
- * Hero section (section in Index page)
-   * Hero sections main function is to give the idea and deliver the "feeling" of the restaurant, for this reason is used a slogan and a hero image.
+* Hero section (section in Index page)
+  * Hero sections main function is to give the idea and deliver the "feeling" of the restaurant, for this reason is used a slogan and a hero image.
 
 ![Hero section](/assets/images/prtscreens/hero.jpg)
 
- * Working hours (section in Index page)
-   * For first time visitors as well the regular visutors, one of the most important details to find is working hours, this is why it is located as first information, right after the hero image. Working hours are formed in a picture, to be visualy easier to read them.
+* Working hours (section in Index page)
+  * For first time visitors as well the regular visutors, one of the most important details to find is working hours, this is why it is located as first information, right after the hero image. Working hours are formed in a picture, to be visualy easier to read them.
 
 ![Working hours](/assets/images/prtscreens/working-hours.jpg)
 
- * About (section in Index page)
-   * This is an introductionary part, mostle for first time visitors to understand what is so special in this restaurant, by reading the spory of how the idea of restaurant was inspired, and short story about the chef.
+* About (section in Index page)
+  * This is an introductionary part, mostle for first time visitors to understand what is so special in this restaurant, by reading the spory of how the idea of restaurant was inspired, and short story about the chef.
 
 ![About](/assets/images/prtscreens/about-section.jpg)
 
- * Sign up page
-   * With help of the page, visitor can leave his date, to receive the newsleter, but reastaurtan, is collecting some statistics, about how do the web page visitors have found out about them.
+* Sign up page
+  * With help of the page, visitor can leave his date, to receive the newsleter, but reastaurtan, is collecting some statistics, about how do the web page visitors have found out about them.
 
 ![Sign up](/assets/images/prtscreens/signup.jpg)
 
- * Thank You page
-   * Note for the visitor that we have received the sign up form.
+* Thank You page
+  * Note for the visitor that we have received the sign up form.
 
 ![Thank You](/assets/images/prtscreens/thanks.jpg)
 
- * Gallery page
-   * Page to get a visual impression, what meal they can get in the restaurant, besides that, click on each of the gallery image, can lead the visitor to recipe of particular meal.
+* Gallery page
+  * Page to get a visual impression, what meal they can get in the restaurant, besides that, click on each of the gallery image, can lead the visitor to recipe of particular meal.
 
 ![Gallery](/assets/images/prtscreens/gallery.jpg)
 
- * Recipe page (in total there are 10 seperate recipe pages, but made based on one template)
-   * Those pages are not included in navigation, as the main goal of the page is not sharing the recipes, but sharing them is a tool of sharing the approach to the cooking. Each recipe page includes info about the ingidients used, time spent and cooking procedure, whicg potentialy could potentialy help the customer to choose the meal.
+* Recipe page (in total there are 10 seperate recipe pages, but made based on one template)
+  * Those pages are not included in navigation, as the main goal of the page is not sharing the recipes, but sharing them is a tool of sharing the approach to the cooking. Each recipe page includes info about the ingidients used, time spent and cooking procedure, whicg potentialy could potentialy help the customer to choose the meal.
 
 ![Recipe](/assets/images/prtscreens/recipe.jpg)
 
-
 ### Features left to implement
 
- * Adding new pictures in gallery and recipies in seperate page, when new meals come in 
- * Possibiltiy to leave a review in the page, which would be visible for other visitors 
- * Adding an iframe with map for easier finding the restaurant
- * Create seperate page "Today's menu" whith the menu for the day.
+* Adding new pictures in gallery and recipies in seperate page, when new meals come in
+* Possibiltiy to leave a review in the page, which would be visible for other visitors
+* Adding an iframe with map for easier finding the restaurant
+* Create seperate page "Today's menu" whith the menu for the day.
 
 ---
 
 ## Design
 
- * Color scheme
-   * On the website there are 3 main colors used from HEX color pallet: #eee4a2, #423f03, #c3ba7a. Color choice was made making some visual experiments as firstly there were 3 different pallets, from which was a need to choose only one:
+* Color scheme
+  * On the website there are 3 main colors used from HEX color pallet: #eee4a2, #423f03, #c3ba7a. Color choice was made making some visual experiments as firstly there were 3 different pallets, from which was a need to choose only one:
 
 ![color palletes](/assets/images/prtscreens/color-schemes.jpg)
 
- * Fonts
-   * As heading font in the page is used Montserrat and for the paragraph text it is Promt, as it was found very simmilar but better readable for smaller font sizes. For both of them sans-serif is used as fallback font.
+* Fonts
+  * As heading font in the page is used Montserrat and for the paragraph text it is Promt, as it was found very simmilar but better readable for smaller font sizes. For both of them sans-serif is used as fallback font.
 
- * Wireframes
-   * For creating layout from which the starting version could be developed, theer were made sketches to understand potential location of the objects on the wide and narrow sceen. Wireframe as well was used to confirm the choice of color pallete and fonts. In the process of developement slight changes in the design was changed.
+  * Wireframes
+  * For creating layout from which the starting version could be developed, theer were made sketches to understand potential location of the objects on the wide and narrow sceen. Wireframe as well was used to confirm the choice of color pallete and fonts. In the process of developement slight changes in the design was changed.
 
 ![Wireframe](/assets/images/prtscreens/wireframe.jpg)
 
@@ -141,29 +159,29 @@ This webpage is created for new customers and existing customers of the restaurt
 
 ## Technologies used
 
- * HTML5
- * CSS
+* HTML5
+* CSS
 
 ---
 
 ## Frameworks, Libraries & Programs Used
 
- * [Codeanywhere](https://codeanywhere.com/) for writing code
- * [GitHub](https://github.com/)for storage of the site
- * [Inscape](<https://inkscape.org/>) for creating wireframes
- * [Mockup](https://ui.dev/amiresponsive) used for the mockup picture of readme file
- * [Google fonts](https://fonts.google.com/) for the used fonts in the website
+* [Codeanywhere](https://codeanywhere.com/) for writing code
+* [GitHub](https://github.com/)for storage of the site
+* [Inscape](<https://inkscape.org/>) for creating wireframes
+* [Mockup](https://ui.dev/amiresponsive) used for the mockup picture of readme file
+* [Google fonts](https://fonts.google.com/) for the used fonts in the website
 
 ---
 
 ## Testing
 
- * Testing was done in few ways: manualy, by testing page via developer tools to check the responsivnes. And as well the code was tested with using special elements.
+* Testing was done in few ways: manualy, by testing page via developer tools to check the responsivnes. And as well the code was tested with using special elements.
 
 ### Validation testing
 
- * Code from each of HTML and CSS pages were checked by validator. For the HTML files was used [W3C Markup Validator](https://validator.w3.org/) and for CSS [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
- * Results:
+* Code from each of HTML and CSS pages were checked by validator. For the HTML files was used [W3C Markup Validator](https://validator.w3.org/) and for CSS [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+* Results:
 
 <details>
 <summary>index.html</summary>
@@ -250,19 +268,17 @@ This webpage is created for new customers and existing customers of the restaurt
 ![Tomato soup recipe page validation result](/assets/images/validator-prtscr/valid-html.jpg)
 </details>
 
-
 <details>
 <summary>style.css</summary>
 
 ![CSS validation](/assets/images/validator-prtscr/valid-css.jpg)
 </details>
 
-
 ### Manual testing
 
- * Web page was tested on 3 different devices - MacBook, PC and an Iphone12.
- * On different browsers Microsoft Edge, Google chrome and Safari
- * In paralel with opening the pageon different screens, devtools were used to double check the responsivnes of web page.
+* Web page was tested on 3 different devices - MacBook, PC and an Iphone12.
+* On different browsers Microsoft Edge, Google chrome and Safari
+* In paralel with opening the pageon different screens, devtools were used to double check the responsivnes of web page.
 
 ### Lighthouse report
 
@@ -440,8 +456,8 @@ This webpage is created for new customers and existing customers of the restaurt
 
 ### Bugs Fixed
 
- * During the last testing phase using [W3C Markup Validator](https://validator.w3.org/) a missing <div> closing tag was noticed in one of the recipe pages, so it had to be placed in all 10 of them
- * Button in the heading with logo on it, was covering the heading in all width, had to be fixed.
+* During the last testing phase using [W3C Markup Validator](https://validator.w3.org/) a missing div closing tag was noticed in one of the recipe pages, so it had to be placed in all 10 of them
+* Button in the heading with logo on it, was covering the heading in all width, had to be fixed.
 
 ---
 
@@ -449,28 +465,29 @@ This webpage is created for new customers and existing customers of the restaurt
 
 ### Github pages
 
- * The webpage wes deployed to GitHub pages. For that were done following steps:
-   * Open the GiHub
-   * In the repositories open "soul-food"
-   * On the top navigation find button "Settings"
-   * in the left side menu find pages (in section "code and automation")
-   * In the menu "Build and deplayment" select:
-     * Source - "Deploy from a branch"
-     * "main"
-     * /(root)
-   * Click "save"
+The webpage wes deployed to GitHub pages. For that were done following steps:
 
-Site can be found: (https://jancimway.github.io/soul-food/)
+* Open the GiHub
+* In the repositories open "soul-food"
+* On the top navigation find button "Settings"
+* in the left side menu find pages (in section "code and automation")
+* In the menu "Build and deplayment" select:
+  * Source - "Deploy from a branch"
+  * "main"
+  * /(root)
+  * Click "save"
+
+Site can be found: (<https://jancimway.github.io/soul-food/>)
 
 ## Credits
 
 ### Code
 
- * Getting some general ideas of biulding a site - Code institute walkthrought project "Love Running"
- * [Code instutute template](https://github.com/Code-Institute-Org/ci-full-template)
- * As an example for structure of [README](https://github.com/Thomas-Tomo/Lunar-Escape) by Thomas-Tomo 
- * Code instutute lecture materials
- * Slack community
+* Getting some general ideas of biulding a site - Code institute walkthrought project "Love Running"
+* [Code instutute template](https://github.com/Code-Institute-Org/ci-full-template)
+* As an example for structure of [README](https://github.com/Thomas-Tomo/Lunar-Escape) by Thomas-Tomo
+* Code instutute lecture materials
+* Slack community
 
 ---
 
@@ -485,6 +502,6 @@ Site can be found: (https://jancimway.github.io/soul-food/)
 
 ### Media
 
-* [Pixabay](https://pixabay.com/) - Royality free mage source
-* [Convertio](https://convertio.co/) - Tool for converting pictures from *.jpg to *.webp
-* [FreeConvert](https://www.freeconvert.com/) - Tool for converting pictures from *.jpg to *.webp
+* [Pixabay](https://pixabay.com/) - Royality free mage source*.jpg to*
+* [Convertio](https://convertio.co/) - Tool for converting pictures from jpg to webp
+* [FreeConvert](https://www.freeconvert.com/) - for converting pictures from jpg to webp
